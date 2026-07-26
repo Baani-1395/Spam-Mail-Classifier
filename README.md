@@ -22,9 +22,6 @@ The objective of this project is to automatically identify spam messages using m
 - Natural Language Processing (NLP)
 - TF-IDF Vectorizer
 - Logistic Regression
-- Flask
-- HTML
-- CSS
 - Jupyter Notebook
 
 ---
